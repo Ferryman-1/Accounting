@@ -9,4 +9,5 @@
 ## 4. 饼图渲染
 **mounted** 初始化 echarts实例 -> 渲染函数中**setOption** 动态更新饼图(**map**)
 ## 5. 示意图
+
 [![Accounting](https://img.17carat.cn/2024/04/github/Accounting.png "Accounting")](https://img.17carat.cn/2024/04/github/Accounting.png "Accounting")
