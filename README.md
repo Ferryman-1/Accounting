@@ -1,4 +1,4 @@
-# Accounting
+# 一、Accounting
 用vue语法实现的简单记账清单的功能
 ## 1. 基本渲染
 **created** 请求数据**(封装渲染方法)** -> 将数据更新给data -> 数据动态渲染
